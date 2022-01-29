@@ -1,5 +1,6 @@
 body {
   font-family: 'Ubuntu', sans-serif;
+  letter-spacing:1.2px;
 }
 /* Nav Bar  */
 .navbar {
@@ -33,7 +34,11 @@ height: 20%
   margin-left: 20px;
   text-align: center;
 }
-.about-sidebar{
-  width: 30%;
-  text-align: left;
+.sidebar {
+  padding: 20px;
 }
+
+.projects-sidebar {
+  padding:20px;
+}
+
